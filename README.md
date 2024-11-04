@@ -41,26 +41,15 @@ Linear_Regression-main/
 ### Setup
 
 1. **Clone the repository**:
-   \`\`\`bash
-   git clone <repository-url>
+   ```
+   git clone https://github.com/Ayodimeji1/Linear_Regression.git
    cd Linear_Regression-main
-   \`\`\`
-
-2. **Create and activate a virtual environment** (recommended):
-   \`\`\`bash
-   python -m venv env
-   source env/bin/activate  # On Windows, use 'env\Scripts\activate'
-   \`\`\`
-
-3. **Install required packages**:
-   \`\`\`bash
-   pip install -r requirements.txt
-   \`\`\`
-
-   > If `requirements.txt` is not provided, ensure essential libraries like `numpy`, `pandas`, `matplotlib`, and `scikit-learn` are installed:
-   \`\`\`bash
+   ```
+   
+2. **Install required packages**:
+   ```
    pip install numpy pandas matplotlib scikit-learn
-   \`\`\`
+   ```
 
 ## Usage
 
