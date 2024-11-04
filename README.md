@@ -15,29 +15,7 @@ Feature scaling to enhance the model's accuracy
 
 Error analysis and model evaluation using RMSE, MAE, and R-squared metrics
 
-Table of Contents
-
-Installation
-
-Usage
-
-Project Details
-
-Exploratory Data Analysis
-
-Linear Regression Modeling
-
-Polynomial Regression
-
-Model Evaluation
-
-Further Improvements
-
-Contributing
-
-License
-
-Installation
+## Installation
 
 To run this project locally, you need to have Python and Jupyter Notebook installed. You can set up a virtual environment and install the required dependencies as follows:
 
