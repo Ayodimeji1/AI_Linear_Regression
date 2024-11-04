@@ -54,9 +54,9 @@ Linear_Regression-main/
 ## Usage
 
 1. **Launch Jupyter Notebook**:
-   \`\`\`bash
+   ```
    jupyter notebook
-   \`\`\`
+   ```
 
 2. **Open `Linear_Regression.ipynb`** in the Jupyter interface and execute the cells step-by-step to follow the analysis and model implementation.
 
